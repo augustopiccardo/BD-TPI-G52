@@ -6,9 +6,7 @@ Trabajo Práctico Integrador - Base de Datos II
 
 Proyecto desarrollado para la materia **Base de Datos II**.
 
-## Grupo
-
-**Grupo 52**
+## Grupo 52
 
 Integrantes:
 
@@ -33,6 +31,12 @@ El sistema modela las operaciones principales del negocio y permite administrar:
 - Facturación
 
 El objetivo principal del proyecto es representar reglas reales del negocio mediante estructuras relacionales, automatización de procesos y validaciones que garanticen la integridad de los datos.
+
+## Requisitos
+
+- SQL Server 2019 o superior
+- SQL Server Management Studio o extensión SQL Server para Visual Studio Code
+- .NET 8 SDK, solo para ejecutar el tester en C#
 
 ## Estructura del proyecto
 
